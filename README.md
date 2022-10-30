@@ -30,9 +30,9 @@ cd src
 flask --app app.py run
 ```
 ## Usage
-Register in website and type the NFT address. For example:
+### Register in website and type the NFT address. For example:
 ```bash
 8KUsimH3yAoJRt2zGBUv5AKLyWRugbaJGjJ4pfu2A58
 ```
-## Will output:
+### Will output:
 ![image](https://user-images.githubusercontent.com/96424646/198893182-0cec8aa7-1da1-428a-ac84-5f9857e8f0c7.png)
