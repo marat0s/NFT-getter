@@ -1,0 +1,16 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+
+{% block content %}
+</br></br></br></br></br>
+    <div class="form-group">
+    <h2 align="center">Enter NFT address</h2>
+    </br>
+    <form method="get" action="/nft_search">
+        <label></label>
+        </br>
+         <input name="nft" type="text" class="form-control">
+        </br>
+        <center><button type="submit" class="btn btn-primary btn-lg">Search</button></center>
+    </form>
+    </div>
+{% endblock %}
