@@ -30,7 +30,7 @@ cd src
 flask --app app.py run
 ```
 ## Usage
-### Register in website and type the NFT address. For example:
+### Go to the [website](http://130.193.49.255:5000/login) and register. Type the NFT address. For example:
 ```bash
 8KUsimH3yAoJRt2zGBUv5AKLyWRugbaJGjJ4pfu2A58
 ```
