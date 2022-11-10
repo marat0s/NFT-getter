@@ -27,7 +27,7 @@ cd src
 ```
 7
 ```bash
-flask --app app.py run
+python3 main.py
 ```
 ## Usage
 ### Go to the [website](http://130.193.49.255:5000/login) and register. Type the NFT address. For example:
